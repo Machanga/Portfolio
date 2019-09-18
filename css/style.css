@@ -3,12 +3,10 @@ body {
   color: #798a9a;
   line-height: 1.7;
   font-size: 16px;
-  font-weight: 300; }
+  font-weight: 300; 
+  text-align: center;
+}
 
-  #skills img{
-    width: 70%;
-    height: 70%;
-  }
 
 .p1-gradient-bg, .thumb .overlay-bg {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
